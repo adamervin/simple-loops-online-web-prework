@@ -61,6 +61,7 @@ def for_iterator(number_of_times)
 counter = 0
 
 for count in counter do
+  
  puts "Welcome to Flatiron School's Web Development Course!"
   counter 1..7
 end 
