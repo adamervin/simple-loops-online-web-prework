@@ -62,7 +62,7 @@ counter = 0
 
 for counter in counter do
  puts "Welcome to Flatiron School's Web Development Course!"
-  
+  counter 1..7
 end 
 end
 
