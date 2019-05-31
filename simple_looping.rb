@@ -62,5 +62,7 @@ for  counter 1..7 do
  puts "Welcome to Flatiron School's Web Development Course!"
   
 end
+end 
+end
 
 
